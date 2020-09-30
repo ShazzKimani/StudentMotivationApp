@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "StudentMotivationalApp"
+    }
+  },
+  "defaultProject": "StudentMotivationalApp",
+  "cli": {
+    "analytics": "76723c69-4016-481a-95fa-198d3f9ee0da"
+  }
 }
